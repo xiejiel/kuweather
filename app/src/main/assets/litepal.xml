@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<litepal>
+    <dbname value="ku_weather"></dbname>
+    <version value="1"></version>
+    <list>
+        <mapping class="com.kuweather.android.db.Province"/>
+        <mapping class="com.kuweather.android.db.City"/>
+        <mapping class="com.kuweather.android.db.County"/>
+
+    </list>
+</litepal>
